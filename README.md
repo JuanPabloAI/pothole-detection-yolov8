@@ -19,3 +19,10 @@ The model is trained with images and videos, and generates predictions on new da
 - Libraries:  
   ```bash
   pip install ultralytics opencv-python matplotlib
+
+---
+
+## ▶️ Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/JuanPabloAI/pothole-detection-yolov8.git
